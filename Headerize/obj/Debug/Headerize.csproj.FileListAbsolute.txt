@@ -1,0 +1,6 @@
+c:\users\vvgw\documents\visual studio 2013\Projects\Headerize\Headerize\bin\Debug\Headerize.exe.config
+c:\users\vvgw\documents\visual studio 2013\Projects\Headerize\Headerize\bin\Debug\Headerize.exe
+c:\users\vvgw\documents\visual studio 2013\Projects\Headerize\Headerize\bin\Debug\Headerize.pdb
+c:\users\vvgw\documents\visual studio 2013\Projects\Headerize\Headerize\obj\Debug\Headerize.exe
+c:\users\vvgw\documents\visual studio 2013\Projects\Headerize\Headerize\obj\Debug\Headerize.pdb
+C:\Users\VVGW\Documents\Visual Studio 2013\Projects\Headerize\Headerize\obj\Debug\Headerize.csprojResolveAssemblyReference.cache
