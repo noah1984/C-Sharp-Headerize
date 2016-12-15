@@ -18,9 +18,9 @@ Contains command line argument functionality, as well as working as a
 typical Console Application.
 
 The program prompts the user to enter the Visual Studio project
-directory that they wish to modify. It then looks for a header.txt in
+directory that they wish to modify. It then looks for header.txt in
 the executable directory, however it will prompt the user to enter a
 filename if this file is not found or empty. Next it finds all the .cs
 files in the directory and subdirectories of the project and adds the
 header information to each file. It is set to create backups for all
-overwritten files in <executable directory>/Backup/<project name>.
+overwritten files in the /Backup directory.
