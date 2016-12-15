@@ -1,26 +1,12 @@
 # C-Sharp-Headerize
 Add headers to your Visual Studio projects
 
-Adds headers to beginning of .cs files in a Visual Studio Project directory
-
-HEADERIZE [drive:]path [/B] [/D] [/H [drive:][path][filename]] [/R]
-
-  [drive:]path
-              Specifies directory of Visual Studio project to process
-
-  /B          Restore files from backup
-  /D          DO NOT backup modified files
-  /H          Specifies location of header file
-  /R          Replace pre-existing headers
-
-NOTE: Only supports "//", does not yet support "/*" comments.
-
 V.02
 12/14/2016
 
 Fixed a bug that would occur if the header file was improperly formatted.
-Added the option to restore files from backup.
-
+Added the option to restore files from backup. Currently supports "//"
+comments only.
 
 V.01
 12/10/2016
