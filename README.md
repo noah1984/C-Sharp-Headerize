@@ -5,7 +5,7 @@ V.02
 12/14/2016
 
 Fixed a bug that would occur if the header file was improperly formatted.
-Added the option to restore files from backup. Currently supports "//"
+Added the option to restore files from backup. Currently supports inline ("//")
 comments only.
 
 V.01
