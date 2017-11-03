@@ -21,7 +21,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace Headerize
+namespace noah1984.Headerize
 {
     class Program
     {
